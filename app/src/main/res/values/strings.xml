@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GitHub User\'s</string>
+    <string name="username_user">Username</string>
+    <string name="user_type">Type</string>
+    <string name="github_user_photo">Github User Photo</string>
+    <string name="search_hint">Search</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="user_name">Name</string>
+    <string name="repository">Repository</string>
+    <string name="Company">company</string>
+    <string name="Location">location</string>
+    <string name="toggleFav">Fav Button</string>
+    <string name="favorite">Favorite</string>
+
+</resources>
