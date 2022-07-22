@@ -1,2 +1,2 @@
 # GitHubUserApp
-An application that shows dicoding user detail
+An application that shows github user detail
